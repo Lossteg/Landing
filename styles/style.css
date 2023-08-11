@@ -1167,7 +1167,8 @@ body {
         bottom: 13.5px;
     }
     #menu {
-        left: 10px;
+        left: 174px;
+        right: 0px;
     }
     #centered__logo {
         margin-top: 10px;
